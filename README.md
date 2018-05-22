@@ -5,9 +5,11 @@ Visit Scotland are look for ways to encourage people to walk and cycle. Your tas
 You could use GoogleMaps Directions API:
 
 https://developers.google.com/maps/documentation/directions/
-MVP
+
+## MVP
+
 Users should be able to:
 
-Select start and finish locations for their route
-Save routes to a wishlist
-Mark completed routes as ‘done’
+* Select start and finish locations for their route
+* Save routes to a wishlist
+* Mark completed routes as ‘done’
